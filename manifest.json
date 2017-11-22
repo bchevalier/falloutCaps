@@ -1,0 +1,11 @@
+{
+  "appID": "01b5d408a4a64ed7a4bfc6031a41d349",
+  "dependencies": {
+    "devkit-core": "https://github.com/gameclosure/devkit-core#v4.5.3"
+  },
+  "shortName": "Fallout",
+  "supportedOrientations": [
+    "portrait"
+  ],
+  "title": "Fallout Caps"
+}
